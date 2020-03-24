@@ -10,7 +10,7 @@ module.exports = {
     },
 
     resolve: {
-        exetensions:[".ts", ".tsx", ".js", ".json", ".jsx"]
+        extensions:[".ts", ".tsx", ".js", ".json", ".jsx"]
     },
 
     module: {
