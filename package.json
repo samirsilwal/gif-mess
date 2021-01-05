@@ -34,7 +34,7 @@
   "dependencies": {
     "@giphy/js-fetch-api": "^1.5.1",
     "@giphy/react-components": "^0.6.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
